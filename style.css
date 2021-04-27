@@ -1,0 +1,17 @@
+#btn {
+    border: 1px solid;
+    box-shadow: 4px 4px 4px;
+    width: 80px;
+    height: 30px;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.first button:hover {
+    background-color: rgb(44, 136, 44);
+}
+
+.second button:hover {
+    background-color: rgb(204, 71, 71);
+}
